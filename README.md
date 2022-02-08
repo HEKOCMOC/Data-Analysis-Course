@@ -1,2 +1,10 @@
-# Data-Analysis-Course
-Laboratory work on the subject of data analysis tools
+# Лабораторные работы по предмету "инструменты анализа данных"
+:octocat:
+ № Л/р | Название | Статус
+ ----- | -------- | ------
+ 0 | :soon: | :soon:
+ 1 | :soon: | :soon:
+ 2 | :soon: | :soon:
+ 3 | :soon: | :soon:
+ 4 | :soon: | :soon:
+ 5 | :soon: | :soon:
