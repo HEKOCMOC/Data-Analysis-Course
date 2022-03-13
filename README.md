@@ -2,9 +2,9 @@
 :octocat: Отмечать датасет и выполнение л/р тут: [Google Sheets](https://docs.google.com/spreadsheets/d/1kHYLZSGh6lg_oD0cNx9jGjGFKykrcCawz6OVULjXvoc/edit#gid=0) :octocat:
  № Л/р | Название | Статус
  ----- | -------- | ------
- 0 | [Numpy](/Labs/lab_0_numpy_6131_Gershevskiy.ipynb) | :white_check_mark:
+ 0 | [Numpy](/Labs/lab_0_numpy_6131_Gershevskiy.ipynb) :teacher: | :white_check_mark:
  1 | [Pandas](/Labs/lab_1_pandas_6131_Gershevskiy.ipynb) :panda_face: | :white_check_mark:
- 2 | Visual | :alarm_clock:
+ 2 | [Визуализация данных](/Labs/lab_2_visual_6131_Gershevskiy.ipynb) :chart_with_upwards_trend: | :white_check_mark:
  3 | :soon: | :soon:
  4 | :soon: | :soon:
  5 | :soon: | :soon:
