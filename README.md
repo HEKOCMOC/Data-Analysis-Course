@@ -4,7 +4,7 @@
  ----- | -------- | ------
  0 | [Numpy](/Labs/lab_0_numpy_6131_Gershevskiy.ipynb) | :white_check_mark:
  1 | [Pandas](/Labs/lab_1_pandas_6131_Gershevskiy.ipynb) :panda_face: | :white_check_mark:
- 2 | :soon: | :soon:
+ 2 | Visual | :alarm_clock:
  3 | :soon: | :soon:
  4 | :soon: | :soon:
  5 | :soon: | :soon:
