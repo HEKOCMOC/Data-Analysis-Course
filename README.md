@@ -3,7 +3,7 @@
  № Л/р | Название | Статус
  ----- | -------- | ------
  0 | [Numpy](/Labs/lab_0_numpy_6131_Gershevskiy.ipynb) | :white_check_mark:
- 1 | Pandas | :computer:
+ 1 | [Pandas](/Labs/lab_1_pandas_6131_Gershevskiy.ipynb) :panda_face: | :white_check_mark:
  2 | :soon: | :soon:
  3 | :soon: | :soon:
  4 | :soon: | :soon:
@@ -11,4 +11,5 @@
 
 № Mastermind-встречи | Статус | Время и дата встречи
 ----- | ----- | -----
-0 | :clock1: | 13:00 19.02.2022
+0 | :white_check_mark: | 13:00 19.02.2022
+1 | :clock1: | TBD
