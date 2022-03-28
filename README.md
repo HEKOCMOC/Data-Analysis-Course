@@ -5,7 +5,7 @@
  0 | [Numpy](/Labs/lab_0_numpy_6131_Gershevskiy.ipynb) :teacher: | :white_check_mark:
  1 | [Pandas](/Labs/lab_1_pandas_6131_Gershevskiy.ipynb) :panda_face: | :white_check_mark:
  2 | [Визуализация данных](/Labs/lab_2_visual_6131_Gershevskiy.ipynb) :chart_with_upwards_trend: | :white_check_mark:
- 3 | [Классификация в sklearn](/Labs/) | :soon:
+ 3 | [Классификация в sklearn](/Labs/lab_3_classification_6131_Gershevskiy.ipynb) :man_mechanic: | :white_check_mark:
  4 | :soon: | :soon:
  5 | :soon: | :soon:
 
