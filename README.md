@@ -6,8 +6,9 @@
  1 | [Pandas](/Labs/lab_1_pandas_6131_Gershevskiy.ipynb) :panda_face: | :white_check_mark:
  2 | [Визуализация данных](/Labs/lab_2_visual_6131_Gershevskiy.ipynb) :chart_with_upwards_trend: | :white_check_mark:
  3 | [Классификация в sklearn](/Labs/lab_3_classification_6131_Gershevskiy.ipynb) :man_mechanic: | :white_check_mark:
- 4 | :soon: | :soon:
+ 4 | [Деревья решений](/Labs/lab_4_trees_6131_Gershevskiy.ipynb) :deciduous_tree: | :white_check_mark:
  5 | :soon: | :soon:
+ 6 | :soon: | :soon:
 
 № Mastermind-встречи | Статус | Время и дата встречи | № ММ группы
 ----- | ----- | ----- | -----
