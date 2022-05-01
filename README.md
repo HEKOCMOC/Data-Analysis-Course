@@ -16,3 +16,5 @@
 1 | :white_check_mark: | 18:00 26.03.2022 | 4
 2 | :negative_squared_cross_mark: | 16:00 03.04.2022 | 4
 3 | :white_check_mark: | 20:30 10.04.2022 | 4
+4 | :negative_squared_cross_mark: | 19:30 17.04.2022 | 4
+5 | :white_check_mark: | 19:30 24.04.2022 | 4
