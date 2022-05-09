@@ -8,7 +8,7 @@
  3 | [Классификация в sklearn](/Labs/lab_3_classification_6131_Gershevskiy.ipynb) :man_mechanic: | :white_check_mark:
  4 | [Деревья решений](/Labs/lab_4_trees_6131_Gershevskiy.ipynb) :deciduous_tree: | :white_check_mark:
  5 | [Catboost](/Labs/lab_5_catboost_6131_Gershevskiy.ipynb) :octocat: | :white_check_mark:
- 6 | :soon: | :soon:
+ 6 | [Линейная регрессия](/Labs/lab_6_linear_models_6131_Gershevskiy.ipynb) | :white_check_mark:
 
 № Mastermind-встречи | Статус | Время и дата встречи | № ММ группы
 ----- | ----- | ----- | -----
